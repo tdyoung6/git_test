@@ -1,3 +1,5 @@
 Hello, I am working on getting a better understading of Github and how it functions.
     I may not understand it 100% but I am learning.
     :D
+
+    testing the new git commit change
